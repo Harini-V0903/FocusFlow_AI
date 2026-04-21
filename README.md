@@ -38,10 +38,4 @@ Streamlit web app development
 
 Real-world productivity system design
 
-## 📸 FocusFlow AI Interface
 
-<p align="center">
-  <img src="app1.png" width="700"/>
-  <img src="app2.png" width="700"/>
-  <img src="app3.png" width="700"/>
-</p>
